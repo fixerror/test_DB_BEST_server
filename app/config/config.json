@@ -1,0 +1,29 @@
+{
+  "development": {
+    "database": "d26aombpcumbhh",
+    "username": "ylaesabtowwaxp",
+    "password": "T0u7a9qr0SQ00-wy6DE_cXBti1",
+    "host": "ec2-54-217-202-108.eu-west-1.compute.amazonaws.com",
+    "port": "5432",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  },
+  "test": {
+    "database": "d26aombpcumbhh",
+    "username": "ylaesabtowwaxp",
+    "password": "T0u7a9qr0SQ00-wy6DE_cXBti1",
+    "host": "ec2-54-217-202-108.eu-west-1.compute.amazonaws.com",
+    "port": "5432",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  },
+  "production": {
+    "username": "ylaesabtowwaxp",
+    "password": "T0u7a9qr0SQ00-wy6DE_cXBti1",
+    "database": "d26aombpcumbhh",
+    "host": "ec2-54-217-202-108.eu-west-1.compute.amazonaws.com",
+    "port": "5432",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  }
+}
